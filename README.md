@@ -49,7 +49,7 @@
     
 ## 📊 My Github Stats: 
  
-<a href="https://github.com/navyaarora01">
+<a href="https://github.com/GeetanshChahal">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GeetanshChahal&show_icons=true&theme=radical" />
  <img   width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GeetanshChahal&theme=radical&hide_border=true&include_all_commits=true&hide_title=true" />
   <br>
