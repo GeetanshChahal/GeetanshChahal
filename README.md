@@ -8,8 +8,8 @@
 
 
 - 🔭 I’m currently working on ReactJS
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 💬 Ask me about C++,Java, Data Structures,JS
+- 🌱 I’m currently learning Nextjs and React Native
+- 💬 Ask me about C++,Java, Data Structures,JS, ReactJs, TypeScript
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Code can lie, bugs can't.
 
