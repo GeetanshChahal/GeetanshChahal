@@ -2,7 +2,7 @@
   
  
 
-<h1>Hey there, I'm Geetansh chahal <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h1>
+<h1>Hey there, I'm Geetansh Chahal <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h1>
 
 </div>
 
