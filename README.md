@@ -35,11 +35,11 @@
     <a href="https://firebase.google.com/" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="50"/> </a> 
   <a href="https://www.mysql.com/" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/mysql.png" height="60" width="60"/></a> 
   <a href="https://www.linux.org/" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/linux.png" height="60" width="60"/></a> 
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="60" width="60" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"  height="60" width="60" alt="MongoDB" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg"  height="60" width="60" alt="GraphQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"  height="60" width="60" alt="Figma" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"  height="60" width="60" alt="TypeScript" /></a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="60" width="60" alt="NodeJS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"  height="60" width="60" alt="MongoDB" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg"  height="60" width="60" alt="GraphQL" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"  height="60" width="60" alt="Figma" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"  height="60" width="60" alt="TypeScript" /></a>
 
   
 <br/>
