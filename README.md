@@ -1,6 +1,7 @@
 <div align="center">
   
- 
+
+
 
 <h1>Hey there, I'm Geetansh Chahal <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h1>
 
@@ -12,7 +13,7 @@
 - 💬 Ask me about C++,Java, Data Structures,JS, ReactJs, TypeScript
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Code can lie, bugs can't.
-
+- 📧 [geetanshchahal.dev@gmail.com](mailto:geetanshchahal.dev@gmail.com)
 
 <br/>
 
