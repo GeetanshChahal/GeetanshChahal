@@ -8,11 +8,12 @@
 </div>
 
 
-- 🔭 I’m currently working on ReactJS
-- 🌱 I’m currently learning Nextjs and React Native
-- 💬 Ask me about C++,Java, Data Structures,JS, ReactJs, TypeScript
+- 🔭 I’m currently working on NextJS
+- 🌱 I’m currently exploring NextJs and Computational Mathematics...
+- 💬 Ask me about ReactJs, NextJs, C++, Java, Data Structures, JS, TypeScript
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Code can lie, bugs can't.
+- 🧑🏻‍💻 2025 Contributions(private & public repos): 50+
 - 📧 [geetanshchahal.dev@gmail.com](mailto:geetanshchahal.dev@gmail.com)
 
 <br/>
@@ -51,6 +52,7 @@
 
 ## 📝 Blogs:
 - [Short-Circuit Evaluation in JavaScript: Boost Performance and Simplify Logic!](https://dev.to/geetanshchahal/short-circuit-evaluation-in-javascript-boost-performance-and-simplify-logic-4m79)
+- [React: Unveiling the Story Behind Its Name and Iconic Logo!](https://dev.to/geetanshchahal/react-unveiling-the-story-behind-its-name-and-iconic-logo-56ho)
 
 <br />
 <br />
