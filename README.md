@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on NextJS
-- 🌱 I’m currently exploring NextJs and Computational Mathematics...
+- 🌱 I’m currently exploring AI, ML and Computational Mathematics...
 - 💬 Ask me about ReactJs, NextJs, C++, Java, Data Structures, JS, TypeScript
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Code can lie, bugs can't.
