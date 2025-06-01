@@ -60,7 +60,7 @@
 ## 🔗 Connect:
 <p align ="center">
 <a href="https://www.linkedin.com/in/geetansh-chahal-b7473b1b4/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /> 
-<a href = "mailto:geetanshchahal949@gmail.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail-new.png" height="50" width="50" /><a>
+<a href = "mailto:geetanshchahal.dev@gmail.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail-new.png" height="50" width="50" /><a>
 </p>
 <br>
     
