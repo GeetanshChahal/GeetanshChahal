@@ -64,13 +64,4 @@
 </p>
 <br>
     
-
-##  📊 My Github Stats
-<a href="https://github.com/GeetanshChahal">
-<img width="48%"  src="https://github-readme-stats.vercel.app/api?username=GeetanshChahal&show_icons=true&theme=radical" />
-<img   width="48%" height ="200px" left ="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeetanshChahal&layout=compact&theme=radical&hide_border=true&hide_title=true" />
-
-  <br>
-  <br>
-
 </div>
