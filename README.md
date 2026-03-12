@@ -8,9 +8,9 @@
 </div>
 
 
-- 🔭 I’m currently working on NextJS
-- 🌱 I’m currently exploring AI, ML and Computational Mathematics...
-- 💬 Ask me about ReactJs, NextJs, C++, Java, Data Structures, JS, TypeScript
+- 🔭 I’m currently working on Data & ML 
+- 🌱 I’m currently exploring AI, Neural Networks and Computational Mathematics...
+- 💬 Ask me about ReactJs, NextJs, Python, Power BI, C++, Java, Data Structures, JS, TypeScript
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Code can lie, bugs can't.
 - 🧑🏻‍💻 2025 Contributions(private & public repos): 50+
