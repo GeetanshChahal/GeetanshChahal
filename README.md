@@ -16,10 +16,7 @@
 
 ## 🔭 Current Focus
 
-- Machine Learning & Deep Learning
-- Data Mining & Knowledge Discovery 
-- Data Analysis & Visualization  
-- Building real-world AI projects  
+`Machine Learning` | `Deep Learning` |  `Data Mining` | `AI Systems`
 
 ---
 
@@ -59,11 +56,14 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=geetanshchahal&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geetanshchahal&theme=tokyonight" height="170"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=geetanshchahal&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
@@ -73,3 +73,6 @@
 -  [Short-Circuit Evaluation in JavaScript](https://dev.to/geetanshchahal/short-circuit-evaluation-in-javascript-boost-performance-and-simplify-logic-4m79)
 -  [Story Behind React Name & Logo](https://dev.to/geetanshchahal/react-unveiling-the-story-behind-its-name-and-iconic-logo-56ho)
 
+## 🤝 Connect with Me
+
+<p align="center"><a href="mailto:geetanshchahal.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;<a href="https://www.linkedin.com/in/geetansh-chahal-b7473b1b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
