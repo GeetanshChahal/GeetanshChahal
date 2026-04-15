@@ -1,67 +1,75 @@
-<div align="center">
-  
+
+<h1 align="center">Hey there, I'm Geetansh Chahal <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h1>
+<h3 align="center">Turning Data into Intelligence • AI | ML | Softwares</h3>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Master's Student in Data Science
+- 💻 Software Engineer with strong full-stack background(Ex-SDE)
+- 🤖 Passionate about **AI, Machine Learning & Data-driven systems**
+- 📊 Exploring **Deep Learning, Neural Networks & Mathematical Foundations**
+- ⚡ Fun fact: *Code can lie, bugs can’t.*
+
+---
+
+## 🔭 Current Focus
+
+- Machine Learning & Deep Learning
+- Data Mining & Knowledge Discovery 
+- Data Analysis & Visualization  
+- Building real-world AI projects  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+
+### 📊 Data & AI
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-black?style=flat-square&logo=scikit-learn)
+![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi)
+![LLMs](https://img.shields.io/badge/-Large%20Language%20Models-black?style=flat-square&logo=openai)
+![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-black?style=flat-square&logo=apacheairflow)
+
+### 🌐 Web & Backend
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
 
+### 🗄️ DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![CI/CD](https://img.shields.io/badge/-CI/CD-black?style=flat-square&logo=githubactions)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-<h1>Hey there, I'm Geetansh Chahal <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h1>
+---
 
-</div>
+## 📈 GitHub Stats
 
-
-- 🔭 I’m currently working on Data & ML 
-- 🌱 I’m currently exploring AI, Neural Networks and Computational Mathematics...
-- 💬 Ask me about ReactJs, NextJs, Python, Power BI, C++, Java, Data Structures, JS, TypeScript
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Code can lie, bugs can't.
-- 🧑🏻‍💻 2025 Contributions(private & public repos): 50+
-- 📧 [geetanshchahal.dev@gmail.com](mailto:geetanshchahal.dev@gmail.com)
-
-<br/>
-
-
-
-## 🚀 My Tech Stack:
-<p align ="center"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/html-5.png" height="60" width="60"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/css3.png" height="60" width="60"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/bootstrap.png" height="60" width="60"/> </a> 
-    <a href="https://www.javascript.com/" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/javascript--v1.png" height="60" width="60"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/nodejs.png" width="60"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a>
-    <a href="https://www.npmjs.com/" target="_blank"> <img align="center" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=ffffff" alt="npm" width="60" height="60"/> </a>
-    <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="60" width="60"/> </a>    
-  <a href="https://www.java.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="60" width="60"/> </a>
-    <a href="https://github.com/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/github--v3.png" height="60" width="60"/></a>
-    <a href="https://reactjs.org/" target="_blank"> <img align="center"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="60" width="60"/></a> 
-    <a href="https://code.visualstudio.com/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="60" width="60"/></a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="50"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/mysql.png" height="60" width="60"/></a> 
-  <a href="https://www.linux.org/" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/linux.png" height="60" width="60"/></a> 
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="60" width="60" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"  height="60" width="60" alt="MongoDB" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg"  height="60" width="60" alt="GraphQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"  height="60" width="60" alt="Figma" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"  height="60" width="60" alt="TypeScript" /></a>
-
-  
-<br/>
-<br/>
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geetanshchahal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geetanshchahal&theme=tokyonight" />
 </p>
 
+---
 
-## 📝 Blogs:
-- [Short-Circuit Evaluation in JavaScript: Boost Performance and Simplify Logic!](https://dev.to/geetanshchahal/short-circuit-evaluation-in-javascript-boost-performance-and-simplify-logic-4m79)
-- [React: Unveiling the Story Behind Its Name and Iconic Logo!](https://dev.to/geetanshchahal/react-unveiling-the-story-behind-its-name-and-iconic-logo-56ho)
+## ✍️ Blogs
 
-<br />
-<br />
+- 🔗 [Short-Circuit Evaluation in JavaScript](https://dev.to/geetanshchahal/short-circuit-evaluation-in-javascript-boost-performance-and-simplify-logic-4m79)
+- 🔗 [Story Behind React Name & Logo](https://dev.to/geetanshchahal/react-unveiling-the-story-behind-its-name-and-iconic-logo-56ho)
 
-## 🔗 Connect:
-<p align ="center">
-<a href="https://www.linkedin.com/in/geetansh-chahal-b7473b1b4/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /> 
-<a href = "mailto:geetanshchahal.dev@gmail.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail-new.png" height="50" width="50" /><a>
-</p>
-<br>
-    
-</div>
