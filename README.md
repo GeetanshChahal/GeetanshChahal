@@ -70,6 +70,6 @@
 
 ## ✍️ Blogs
 
-- 🔗 [Short-Circuit Evaluation in JavaScript](https://dev.to/geetanshchahal/short-circuit-evaluation-in-javascript-boost-performance-and-simplify-logic-4m79)
-- 🔗 [Story Behind React Name & Logo](https://dev.to/geetanshchahal/react-unveiling-the-story-behind-its-name-and-iconic-logo-56ho)
+-  [Short-Circuit Evaluation in JavaScript](https://dev.to/geetanshchahal/short-circuit-evaluation-in-javascript-boost-performance-and-simplify-logic-4m79)
+-  [Story Behind React Name & Logo](https://dev.to/geetanshchahal/react-unveiling-the-story-behind-its-name-and-iconic-logo-56ho)
 
